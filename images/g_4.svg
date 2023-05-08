@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 89 235.2" enable-background="new 0 0 89 235.2" xml:space="preserve">
+<g id="美國">
+	
+		<rect id="脖子_24_" x="36.3" y="74.8" fill="#F6DEC8" stroke="#221714" stroke-width="7.6997" stroke-miterlimit="10" width="16.3" height="16.3"/>
+	<g id="下身_24_">
+		<polygon fill="#D59F94" stroke="#221714" stroke-width="8.427" stroke-miterlimit="10" points="44.5,204.9 19.2,140.8 69.8,140.8 
+					"/>
+		
+			<rect x="17.2" y="142.3" fill="#FFFFFF" stroke="#221714" stroke-width="4.9029" stroke-miterlimit="10" width="54.6" height="24.1"/>
+		<line fill="none" stroke="#221714" stroke-width="3.3365" stroke-miterlimit="10" x1="38.1" y1="156.7" x2="50.5" y2="156.7"/>
+		<line fill="none" stroke="#221714" stroke-width="3.8291" stroke-miterlimit="10" x1="44.3" y1="156.7" x2="44.3" y2="184.6"/>
+		<path id="腳_24_" fill="#1A0306" stroke="#221714" stroke-width="7.6997" stroke-miterlimit="10" d="M44.7,225.2h-0.5
+			c-12.7,0-22.9-10.3-22.9-22.9v-19.6h46.3v19.6C67.7,215,57.4,225.2,44.7,225.2z"/>
+	</g>
+	<g id="身體_24_">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="15.9" y="85.8" width="57.2" height="54.2"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			
+				<rect x="16" y="85.8" clip-path="url(#SVGID_2_)" fill="#FFFFFF" stroke="#221714" stroke-width="7.6997" stroke-miterlimit="10" width="57.2" height="54.2"/>
+			<polygon clip-path="url(#SVGID_2_)" fill="#F6DEC8" stroke="#090C1D" stroke-width="2.2949" stroke-miterlimit="10" points="
+				32.6,88.3 44.5,101.5 56.5,88.3 			"/>
+		</g>
+		<rect x="15.9" y="85.8" fill="none" stroke="#221714" stroke-width="7.6997" stroke-miterlimit="10" width="57.2" height="54.2"/>
+	</g>
+	<g id="臉_24_">
+		<g>
+			<defs>
+				<ellipse id="SVGID_3_" cx="44.5" cy="43" rx="30.4" ry="33.1"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			
+				<ellipse clip-path="url(#SVGID_4_)" fill="#F6DEC8" stroke="#221714" stroke-width="8.427" stroke-miterlimit="10" cx="44.5" cy="43" rx="30.4" ry="33.1"/>
+			<g clip-path="url(#SVGID_4_)">
+				<g opacity="0.5">
+					<rect x="10" y="20" fill="#833E21" width="16.2" height="14.9"/>
+					<rect x="62.8" y="20" fill="#833E21" width="16.2" height="14.9"/>
+				</g>
+				
+					<ellipse transform="matrix(0.9712 0.2384 -0.2384 0.9712 6.0381 -10.0342)" fill="#EAE767" cx="44.5" cy="19.9" rx="26.1" ry="12.1"/>
+			</g>
+		</g>
+		<ellipse fill="none" stroke="#221714" stroke-width="8.4697" stroke-miterlimit="10" cx="44.5" cy="43" rx="30.4" ry="33.1"/>
+		<circle fill="#221714" cx="32.9" cy="39.5" r="1.3"/>
+		<polyline fill="none" stroke="#221714" stroke-width="2.5666" stroke-miterlimit="10" points="25.5,38.5 39.6,37.4 37.9,55.9 
+			50.4,55.9 48.7,47.6 		"/>
+		<circle fill="#221714" cx="55.3" cy="39.5" r="1.3"/>
+		<line fill="none" stroke="#D7261C" stroke-width="2.4197" stroke-miterlimit="10" x1="28" y1="53.5" x2="44.5" y2="65.8"/>
+	</g>
+</g>
+</svg>
